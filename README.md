@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **stefandimitrov2004@gmail.com**
 
-- ⚡ Fun fact **I like playing basketball**
+- ⚡ Fun fact **I like to play basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
