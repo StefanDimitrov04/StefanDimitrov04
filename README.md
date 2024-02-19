@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **stefandimitrov2004@gmail.com**
+- 📫 How to reach me **s.dimitrov2004@gmail.com**
 
 - ⚡ Fun fact **I like to play basketball**
 
