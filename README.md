@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Film forum project**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **s.dimitrov2004@gmail.com**
 
