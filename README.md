@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sport news web app**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **s.dimitrov2004@gmail.com**
 
